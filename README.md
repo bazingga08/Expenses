@@ -2,6 +2,8 @@
 
 Expenses has been created as part of the interview process as a sample project to analyse code standards and coding practices by following the design from Zeplin.
 
+Click [here](https://csb-yqmnk-kerj32hj3.vercel.app/) to Check the live version https://csb-yqmnk-kerj32hj3.vercel.app/
+
 ### Problem Statement & INSTRUCTIONS
 - Please don't use any libraries for JS or CSS. (For chart/graph you can use some library)
 
