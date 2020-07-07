@@ -1,6 +1,6 @@
 # EXPENSES
 
-Expenses has been created as a sample project to exhibit my code standards and coding practices by following the design from Zeplin.
+Expenses has been created as a sample project to improve my code standards and coding practices by following the design from Zeplin.
 
 Click [here](https://csb-yqmnk-kerj32hj3.vercel.app/) to Check the live version https://csb-yqmnk-kerj32hj3.vercel.app/
 
